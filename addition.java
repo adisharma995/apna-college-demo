@@ -9,6 +9,8 @@ int d = a+b;
 int s = b/2;
 System.out.println("the sum of two number is : "+c);
 
+System.out.println("thanks for using the program");
+
   }
     
 }
